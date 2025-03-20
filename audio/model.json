@@ -1,0 +1,34 @@
+[
+    {
+        "name": "FunAudioLLM/CosyVoice2-0.5B:alex",
+        "gender": "男"
+    },
+    {
+        "name": "FunAudioLLM/CosyVoice2-0.5B:anna",
+        "gender": "女"
+    },
+    {
+        "name": "FunAudioLLM/CosyVoice2-0.5B:bella",
+        "gender": "女"
+    },
+    {
+        "name": "FunAudioLLM/CosyVoice2-0.5B:benjamin",
+        "gender": "男"
+    },
+    {
+        "name": "FunAudioLLM/CosyVoice2-0.5B:charles",
+        "gender": "男"
+    },
+    {
+        "name": "FunAudioLLM/CosyVoice2-0.5B:claire",
+        "gender": "女"
+    },
+    {
+        "name": "FunAudioLLM/CosyVoice2-0.5B:david",
+        "gender": "男"
+    },
+    {
+        "name": "FunAudioLLM/CosyVoice2-0.5B:diana",
+        "gender": "女"
+    }
+]
