@@ -1,7 +1,6 @@
 # AI 有声书自动化生成工具
 
 [成品效果](https://www.ximalaya.com/album/88023000)
-[爱发电](https://afdian.com/a/dmzw1918)
 
 
 ## 大模型
